@@ -1,66 +1,66 @@
 # 1.-Library-Resource-Management-
-📚 Library Resource Management Availability System
+# 📚 Library Resource Management Availability System
 
-Sanjivani University
+*Sanjivani University*
 
-✅ Overview
+## ✅ Overview
 
 The Library Resource Management Availability System is a full-stack module integrated into the Sanjivani University ERP platform. It enables students to seamlessly check real-time book availability, track issue/return status, and manage library resources digitally. This solution streamlines manual workflows and enhances accessibility for students and staff.
 
-🎯 Features
+---
 
-Real-time book availability status
+## 🎯 Features
 
-Book issue/return tracking
+* Real-time book availability status
+* Book issue/return tracking
+* Student-friendly UI within ERP
+* Centralized database for resource management
+* Secure authentication and controlled access
+* Automated updates to maintain accuracy
 
-Student-friendly UI within ERP
+---
 
-Centralized database for resource management
+## 🛠️ Tech Stack
 
-Secure authentication and controlled access
+| Component    | Technology     |
+| ------------ | -------------- |
+| Backend      | Python (Flask) |
+| Database     | MySQL          |
+| Integration  | University ERP |
+| Architecture | Full-stack     |
 
-Automated updates to maintain accuracy
+---
 
-🛠️ Tech Stack
-Component	Technology
-Backend	Python (Flask)
-Database	MySQL
-Integration	University ERP
-Architecture	Full-stack
-🔍 System Workflow
+## 🔍 System Workflow
 
-Student logs into ERP
+1. Student logs into ERP
+2. User navigates to Library Module
+3. Searches for books by title, author, or category
+4. System returns availability + issue/return status
+5. Student places a request (if applicable)
 
-User navigates to Library Module
+---
 
-Searches for books by title, author, or category
+## 🚀 Benefits
 
-System returns availability + issue/return status
+* Improves library accessibility
+* Reduces manual tracking and errors
+* Helps students plan resource utilization
+* Enhances library transparency
+* Faster operations through digitization
 
-Student places a request (if applicable)
+---
 
-🚀 Benefits
+## 📂 Future Enhancements
 
-Improves library accessibility
+* Automated due-date reminders
+* Mobile app integration
+* Analytics dashboard for admin
+* Online reservation feature
 
-Reduces manual tracking and errors
+---
 
-Helps students plan resource utilization
-
-Enhances library transparency
-
-Faster operations through digitization
-
-📂 Future Enhancements
-
-Automated due-date reminders
-
-Mobile app integration
-
-Analytics dashboard for admin
-
-Online reservation feature
-
-👨‍💻 Author
+## 👨‍💻 Author
 
 Developed as part of an academic ERP integration initiative for Sanjivani University.
+
