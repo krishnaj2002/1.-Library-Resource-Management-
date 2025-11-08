@@ -1,4 +1,4 @@
-# 1.-Library-Resource-Management-
+Library-Resource-Management-
 # 📚 Library Resource Management Availability System
 
 *Sanjivani University*
